@@ -54,6 +54,8 @@ public class Player : MonoBehaviour
         }
     }
 
+
+
     private void HandleAttack(InputAction.CallbackContext ctx)
     {
         Debug.Log($"Attack");
